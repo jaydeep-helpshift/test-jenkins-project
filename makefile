@@ -3,3 +3,6 @@ build:
 
 clean:
 	rm -f artifact
+
+test:
+	cat artifact
